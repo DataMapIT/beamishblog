@@ -33,17 +33,20 @@ I had a 1 on 1 with a Leadership consultant at work who talked me through his fr
 *Focusing on these three pillars help to build trust. Once trust is established, then we move on to the Operational Controls. This is where we understand and plan the work, with robust control of risks and strong ownership.* 
 
 ##### Operational controls include:
+
 **Work:** can you describe the work to me?
 - What is the purpose and scope of work?
 - What are the internal and external interfaces?
 - What is going on around the task?
 - What will completion / the result look like?
 - Are there time constraints or pressures?
+
 **Risk:** What do you see as the significant risks/threats/challenges?
 - What are the hazards and critical risks?
 - Are there developing or hidden hazards?
 - Are there opportunities to avoid or eliminate risks?
 - What are the critical risk controls?
+
 **Plan:** Tell me about your plan for the work?
 - Does the plan address Critical Risks?
 - How robust are risk controls?
@@ -52,6 +55,7 @@ I had a 1 on 1 with a Leadership consultant at work who talked me through his fr
 - Who has the plan been communicated to and how?
 - Does everyone who needs to know and understand the plan?
 - Is everyone working to the same plan? Is there one plan?
+
 **Own:** Who is in charge? Who is responsible for execution?
 - What would trigger a stop and rethink?
 - Do you feel comfortable taking a time out if things change?
