@@ -1,5 +1,5 @@
 ---
-title: Welcome to Beamish Blog
+title: Welcome to my Blog
 description: Thoughts on maintenance planning, mining, tech, and life in Kalgoorlie
 ---
 
@@ -10,5 +10,3 @@ Maintenance planning insights, mining industry thoughts, tech experiments, and l
 Browse the recent posts below or use the search to find something specific.
 
 ---
-
-*Built with [Quartz](https://quartz.jzhao.xyz/) — write in Obsidian, publish to the world.*
