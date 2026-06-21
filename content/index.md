@@ -6,7 +6,7 @@ description: Maintenance planning, mining industry thoughts, tech experiments, a
 <div class="hero-section">
 
 <div class="hero-profile">
-  <img src="/beamishblog/assets/profile.webp" alt="James Beamish" class="profile-image" />
+  <img src="./assets/profile.webp" alt="James Beamish" class="profile-image" />
 </div>
 
 <div class="hero-text">
