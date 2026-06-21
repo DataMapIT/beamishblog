@@ -1,9 +1,9 @@
 ---
-title: Welcome to my Blog
-description: Thoughts on maintenance planning, mining, tech, and life in Kalgoorlie
+title: Home Page
+description:
 ---
 
-# 👋 Welcome to Beamish Blog
+# 👋 Welcome to the Blog of James Beamish
 
 Maintenance planning insights, mining industry thoughts, tech experiments, and life from Kalgoorlie, Western Australia.
 
