@@ -1,9 +1,9 @@
 ---
-title: Welcome to BeamishBlog
+title: Welcome to Beamish Blog
 description: Thoughts on maintenance planning, mining, tech, and life in Kalgoorlie
 ---
 
-# 👋 Welcome to BeamishBlog
+# 👋 Welcome to Beamish Blog
 
 Maintenance planning insights, mining industry thoughts, tech experiments, and life from Kalgoorlie, Western Australia.
 

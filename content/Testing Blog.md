@@ -1,5 +1,5 @@
 ---
-title: Hello, World — Beamish Blog is Live
+title: Testing Live Sync from Obsidian
 description: First post on the new blog, built with Quartz and Obsidian
 date: 2026-06-21
 tags:
@@ -7,9 +7,9 @@ tags:
   - blogging
 ---
 
-# Hello, World — Beamish Blog is Live
+# Lets gooo — Beamish Blog is Live
 
-Welcome to the first post on **Beamish Blog**!
+Welcome to the first post on **BeamishBlog**!
 
 This site is powered by [Quartz](https://quartz.jzhao.xyz/) — a static site generator built for Obsidian users. The workflow is simple:
 
