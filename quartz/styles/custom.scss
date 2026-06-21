@@ -1,3 +1,56 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
+// Hero profile section on homepage
+.hero-section {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  margin: 2rem 0 2.5rem;
+  padding-bottom: 2rem;
+  border-bottom: 1px solid var(--lightgray);
+}
+
+.hero-profile {
+  flex-shrink: 0;
+}
+
+.profile-image {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid var(--secondary);
+  box-shadow: 0 0 16px rgba(123, 151, 170, 0.25);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.profile-image:hover {
+  transform: scale(1.05);
+  box-shadow: 0 0 24px rgba(123, 151, 170, 0.4);
+}
+
+.hero-text h1 {
+  margin: 0 0 0.5rem;
+  font-size: 1.75rem;
+}
+
+.hero-subtitle {
+  font-size: 1.05rem;
+  line-height: 1.6;
+  color: var(--darkgray);
+  margin-bottom: 0.25rem;
+}
+
+// Stack on mobile
+@media (max-width: 500px) {
+  .hero-section {
+    flex-direction: column;
+    text-align: center;
+    gap: 1rem;
+  }
+
+  .profile-image {
+    width: 100px;
+    height: 100px;
+  }
+}
